@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyuonnect",
+        "uuid": 4082700,
+        "checksum": "lxam"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
